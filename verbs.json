@@ -58,5 +58,371 @@
     "pastSimple": "came",
     "pastParticiple": "come",
     "serbian": "doći"
+  },
+  {
+    "infinitive": "cost",
+    "pastSimple": "cost",
+    "pastParticiple": "cost",
+    "serbian": "koštati"
+  },
+  {
+    "infinitive": "cut",
+    "pastSimple": "cut",
+    "pastParticiple": "cut",
+    "serbian": "seći"
+  },
+  {
+    "infinitive": "do",
+    "pastSimple": "did",
+    "pastParticiple": "done",
+    "serbian": "raditi"
+  },
+  {
+    "infinitive": "draw",
+    "pastSimple": "drew",
+    "pastParticiple": "drawn",
+    "serbian": "crtati"
+  },
+  {
+    "infinitive": "drink",
+    "pastSimple": "drank",
+    "pastParticiple": "drunk",
+    "serbian": "piti"
+  },
+  {
+    "infinitive": "drive",
+    "pastSimple": "drove",
+    "pastParticiple": "driven",
+    "serbian": "voziti"
+  },
+  {
+    "infinitive": "eat",
+    "pastSimple": "ate",
+    "pastParticiple": "eaten",
+    "serbian": "jesti"
+  },
+  {
+    "infinitive": "fall",
+    "pastSimple": "fell",
+    "pastParticiple": "fallen",
+    "serbian": "pasti"
+  },
+  {
+    "infinitive": "feel",
+    "pastSimple": "felt",
+    "pastParticiple": "felt",
+    "serbian": "osećati"
+  },
+  {
+    "infinitive": "find",
+    "pastSimple": "found",
+    "pastParticiple": "found",
+    "serbian": "naći"
+  },
+  {
+    "infinitive": "fly",
+    "pastSimple": "flew",
+    "pastParticiple": "flown",
+    "serbian": "leteti"
+  },
+  {
+    "infinitive": "forget",
+    "pastSimple": "forgot",
+    "pastParticiple": "forgotten",
+    "serbian": "zaboraviti"
+  },
+  {
+    "infinitive": "get",
+    "pastSimple": "got",
+    "pastParticiple": "got/gotten",
+    "serbian": "dobiti"
+  },
+  {
+    "infinitive": "give",
+    "pastSimple": "gave",
+    "pastParticiple": "given",
+    "serbian": "dati"
+  },
+  {
+    "infinitive": "go",
+    "pastSimple": "went",
+    "pastParticiple": "gone",
+    "serbian": "ići"
+  },
+  {
+    "infinitive": "grow",
+    "pastSimple": "grew",
+    "pastParticiple": "grown",
+    "serbian": "rasti"
+  },
+  {
+    "infinitive": "have",
+    "pastSimple": "had",
+    "pastParticiple": "had",
+    "serbian": "imati"
+  },
+  {
+    "infinitive": "hear",
+    "pastSimple": "heard",
+    "pastParticiple": "heard",
+    "serbian": "čuti"
+  },
+  {
+    "infinitive": "hide",
+    "pastSimple": "hid",
+    "pastParticiple": "hidden",
+    "serbian": "sakriti"
+  },
+  {
+    "infinitive": "hit",
+    "pastSimple": "hit",
+    "pastParticiple": "hit",
+    "serbian": "udariti"
+  },
+  {
+    "infinitive": "hold",
+    "pastSimple": "held",
+    "pastParticiple": "held",
+    "serbian": "držati"
+  },
+  {
+    "infinitive": "keep",
+    "pastSimple": "kept",
+    "pastParticiple": "kept",
+    "serbian": "držati"
+  },
+  {
+    "infinitive": "know",
+    "pastSimple": "knew",
+    "pastParticiple": "known",
+    "serbian": "znati"
+  },
+  {
+    "infinitive": "learn",
+    "pastSimple": "learned/learnt",
+    "pastParticiple": "learned/learnt",
+    "serbian": "učiti"
+  },
+  {
+    "infinitive": "leave",
+    "pastSimple": "left",
+    "pastParticiple": "left",
+    "serbian": "ostaviti"
+  },
+  {
+    "infinitive": "lend",
+    "pastSimple": "lent",
+    "pastParticiple": "lent",
+    "serbian": "pozajmiti"
+  },
+  {
+    "infinitive": "let",
+    "pastSimple": "let",
+    "pastParticiple": "let",
+    "serbian": "dozvoliti"
+  },
+  {
+    "infinitive": "lose",
+    "pastSimple": "lost",
+    "pastParticiple": "lost",
+    "serbian": "izgubiti"
+  },
+  {
+    "infinitive": "make",
+    "pastSimple": "made",
+    "pastParticiple": "made",
+    "serbian": "napraviti"
+  },
+  {
+    "infinitive": "mean",
+    "pastSimple": "meant",
+    "pastParticiple": "meant",
+    "serbian": "značiti"
+  },
+  {
+    "infinitive": "meet",
+    "pastSimple": "met",
+    "pastParticiple": "met",
+    "serbian": "sresti"
+  },
+  {
+    "infinitive": "pay",
+    "pastSimple": "paid",
+    "pastParticiple": "paid",
+    "serbian": "platiti"
+  },
+  {
+    "infinitive": "put",
+    "pastSimple": "put",
+    "pastParticiple": "put",
+    "serbian": "staviti"
+  },
+  {
+    "infinitive": "read",
+    "pastSimple": "read",
+    "pastParticiple": "read",
+    "serbian": "čitati"
+  },
+  {
+    "infinitive": "ride",
+    "pastSimple": "rode",
+    "pastParticiple": "ridden",
+    "serbian": "jahati"
+  },
+  {
+    "infinitive": "ring",
+    "pastSimple": "rang",
+    "pastParticiple": "rung",
+    "serbian": "zvoniti"
+  },
+  {
+    "infinitive": "run",
+    "pastSimple": "ran",
+    "pastParticiple": "run",
+    "serbian": "trčati"
+  },
+  {
+    "infinitive": "say",
+    "pastSimple": "said",
+    "pastParticiple": "said",
+    "serbian": "reći"
+  },
+  {
+    "infinitive": "see",
+    "pastSimple": "saw",
+    "pastParticiple": "seen",
+    "serbian": "videti"
+  },
+  {
+    "infinitive": "sell",
+    "pastSimple": "sold",
+    "pastParticiple": "sold",
+    "serbian": "prodati"
+  },
+  {
+    "infinitive": "send",
+    "pastSimple": "sent",
+    "pastParticiple": "sent",
+    "serbian": "poslati"
+  },
+  {
+    "infinitive": "set",
+    "pastSimple": "set",
+    "pastParticiple": "set",
+    "serbian": "postaviti"
+  },
+  {
+    "infinitive": "show",
+    "pastSimple": "showed",
+    "pastParticiple": "shown",
+    "serbian": "pokazati"
+  },
+  {
+    "infinitive": "sing",
+    "pastSimple": "sang",
+    "pastParticiple": "sung",
+    "serbian": "pevati"
+  },
+  {
+    "infinitive": "sit",
+    "pastSimple": "sat",
+    "pastParticiple": "sat",
+    "serbian": "sedeti"
+  },
+  {
+    "infinitive": "sleep",
+    "pastSimple": "slept",
+    "pastParticiple": "slept",
+    "serbian": "spavati"
+  },
+  {
+    "infinitive": "speak",
+    "pastSimple": "spoke",
+    "pastParticiple": "spoken",
+    "serbian": "govoriti"
+  },
+  {
+    "infinitive": "spend",
+    "pastSimple": "spent",
+    "pastParticiple": "spent",
+    "serbian": "potrošiti"
+  },
+  {
+    "infinitive": "stand",
+    "pastSimple": "stood",
+    "pastParticiple": "stood",
+    "serbian": "stajati"
+  },
+  {
+    "infinitive": "steal",
+    "pastSimple": "stole",
+    "pastParticiple": "stolen",
+    "serbian": "ukrasti"
+  },
+  {
+    "infinitive": "swim",
+    "pastSimple": "swam",
+    "pastParticiple": "swum",
+    "serbian": "plivati"
+  },
+  {
+    "infinitive": "take",
+    "pastSimple": "took",
+    "pastParticiple": "taken",
+    "serbian": "uzeti"
+  },
+  {
+    "infinitive": "teach",
+    "pastSimple": "taught",
+    "pastParticiple": "taught",
+    "serbian": "učiti (nekoga)"
+  },
+  {
+    "infinitive": "tell",
+    "pastSimple": "told",
+    "pastParticiple": "told",
+    "serbian": "reći"
+  },
+  {
+    "infinitive": "think",
+    "pastSimple": "thought",
+    "pastParticiple": "thought",
+    "serbian": "misliti"
+  },
+  {
+    "infinitive": "throw",
+    "pastSimple": "threw",
+    "pastParticiple": "thrown",
+    "serbian": "baciti"
+  },
+  {
+    "infinitive": "understand",
+    "pastSimple": "understood",
+    "pastParticiple": "understood",
+    "serbian": "razumeti"
+  },
+  {
+    "infinitive": "wake",
+    "pastSimple": "woke",
+    "pastParticiple": "woken",
+    "serbian": "probuditi"
+  },
+  {
+    "infinitive": "wear",
+    "pastSimple": "wore",
+    "pastParticiple": "worn",
+    "serbian": "nositi (odeću)"
+  },
+  {
+    "infinitive": "win",
+    "pastSimple": "won",
+    "pastParticiple": "won",
+    "serbian": "pobediti"
+  },
+  {
+    "infinitive": "write",
+    "pastSimple": "wrote",
+    "pastParticiple": "written",
+    "serbian": "pisati"
   }
 ]
