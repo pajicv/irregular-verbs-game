@@ -1,0 +1,94 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Irregular Verbs Game</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; }
+        table { border-collapse: collapse; width: 100%; max-width: 700px; }
+        td, th { border: 1px solid #ccc; padding: 8px; text-align: center; }
+        input { width: 100%; }
+        .correct { background-color: #c8e6c9; }
+        .wrong { background-color: #ffcdd2; }
+        button { margin-top: 20px; padding: 10px 20px; }
+    </style>
+</head>
+<body>
+
+<h2>Learn Irregular Verbs</h2>
+<table id="verbsTable">
+    <thead>
+        <tr>
+            <th>Infinitive</th>
+            <th>Past Simple</th>
+            <th>Past Participle</th>
+            <th>Serbian Translation</th>
+        </tr>
+    </thead>
+    <tbody></tbody>
+</table>
+
+<button onclick="checkAnswers()">Check Answers</button>
+<button onclick="nextWord()">Next Word</button>
+
+<script>
+let words = [];
+let currentWord = {};
+const fields = ["infinitive", "pastSimple", "pastParticiple", "serbian"];
+let shownField = "";
+
+fetch("verbs.json")
+    .then(response => response.json())
+    .then(data => {
+        words = data;
+        loadWord();
+    });
+
+function loadWord() {
+    const tbody = document.querySelector("#verbsTable tbody");
+    tbody.innerHTML = "";
+
+    const randomIndex = Math.floor(Math.random() * words.length);
+    currentWord = words[randomIndex];
+
+    shownField = fields[Math.floor(Math.random() * fields.length)];
+
+    const row = document.createElement("tr");
+    fields.forEach(field => {
+        const cell = document.createElement("td");
+        if (field === shownField) {
+            cell.innerText = currentWord[field];
+        } else {
+            const input = document.createElement("input");
+            input.id = field;
+            cell.appendChild(input);
+        }
+        row.appendChild(cell);
+    });
+
+    tbody.appendChild(row);
+}
+
+function checkAnswers() {
+    fields.forEach(field => {
+        if (field !== shownField) {
+            const input = document.getElementById(field);
+            if (input) {
+                if (input.value.trim().toLowerCase() === currentWord[field].toLowerCase()) {
+                    input.className = "correct";
+                } else {
+                    input.className = "wrong";
+                }
+            }
+        }
+    });
+}
+
+function nextWord() {
+    loadWord();
+}
+</script>
+
+</body>
+</html>

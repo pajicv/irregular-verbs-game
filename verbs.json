@@ -1,0 +1,62 @@
+[
+  {
+    "infinitive": "be",
+    "pastSimple": "was/were",
+    "pastParticiple": "been",
+    "serbian": "biti"
+  },
+  {
+    "infinitive": "become",
+    "pastSimple": "became",
+    "pastParticiple": "become",
+    "serbian": "postati"
+  },
+  {
+    "infinitive": "begin",
+    "pastSimple": "began",
+    "pastParticiple": "begun",
+    "serbian": "početi"
+  },
+  {
+    "infinitive": "break",
+    "pastSimple": "broke",
+    "pastParticiple": "broken",
+    "serbian": "slomiti"
+  },
+  {
+    "infinitive": "bring",
+    "pastSimple": "brought",
+    "pastParticiple": "brought",
+    "serbian": "doneti"
+  },
+  {
+    "infinitive": "build",
+    "pastSimple": "built",
+    "pastParticiple": "built",
+    "serbian": "graditi"
+  },
+  {
+    "infinitive": "buy",
+    "pastSimple": "bought",
+    "pastParticiple": "bought",
+    "serbian": "kupiti"
+  },
+  {
+    "infinitive": "catch",
+    "pastSimple": "caught",
+    "pastParticiple": "caught",
+    "serbian": "uhvatiti"
+  },
+  {
+    "infinitive": "choose",
+    "pastSimple": "chose",
+    "pastParticiple": "chosen",
+    "serbian": "izabrati"
+  },
+  {
+    "infinitive": "come",
+    "pastSimple": "came",
+    "pastParticiple": "come",
+    "serbian": "doći"
+  }
+]
